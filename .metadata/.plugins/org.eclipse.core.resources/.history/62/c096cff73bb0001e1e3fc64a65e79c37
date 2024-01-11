@@ -1,0 +1,12 @@
+package sec03.exam01;
+//가상의 폴더
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+		//클래스.폴더.메소드(파라미터)
+	}
+
+}

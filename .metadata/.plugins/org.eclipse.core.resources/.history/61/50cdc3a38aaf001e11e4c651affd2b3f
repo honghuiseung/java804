@@ -1,0 +1,9 @@
+package sec03.exam04;
+
+public class Car {
+	//ÇÊµå
+	String company;
+	String model;
+	String color;
+	int maxSpeed;
+}

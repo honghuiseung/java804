@@ -1,0 +1,23 @@
+package sec03.exam02;
+
+public class EnumWeekExample {
+
+	public static void main(String[] args) {
+		Week today = null;
+		
+		Calender cal = Calender.getInstance();
+		int week = cal.get(Calender.getInstance);
+		
+		switch (week) {
+		case 1:
+			today = Week.SUNDAY; break;
+			break;
+
+		default:
+			break;
+		}
+		
+		
+	}
+
+}

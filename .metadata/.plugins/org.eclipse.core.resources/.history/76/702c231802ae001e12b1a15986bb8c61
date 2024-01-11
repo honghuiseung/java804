@@ -1,0 +1,14 @@
+package sec02.exam01;
+
+public class ArrayCreateByValueListExample2 {
+
+	public static void main(String[] args) {//인자 파라미터
+		int[] scores;
+		scores = new int[] {83, 90, 87};
+		int sum1 = 0;
+		
+	}
+	
+	
+
+}

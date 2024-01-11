@@ -1,0 +1,13 @@
+package sec02.exam01;
+
+public class CarExample {
+
+	public static void main(String[] args) {
+		//按眉积己
+		Car myCar = new Car();
+		
+		System.out.println("力累雀荤: " + myCar.company);
+		
+	}
+
+}

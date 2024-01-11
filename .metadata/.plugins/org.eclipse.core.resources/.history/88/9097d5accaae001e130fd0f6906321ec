@@ -1,0 +1,21 @@
+package sec02.exam02;
+
+public class FieldInitValueExample {
+
+	public static void main(String[] args) {
+		FieldInitValue fiv = new FieldInitValue();
+		
+		System.out.println("byteField");
+		System.out.println("shortField");
+		System.out.println("intField");
+		System.out.println("longField");
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		
+	}
+
+}

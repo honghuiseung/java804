@@ -1,0 +1,15 @@
+package sec05.exam01;
+
+public class Car {
+	//필드
+	String model;
+	int speed;
+	
+	Car(String model){
+		this.model = model;
+	}
+	
+	void setSpeed(int speed) {
+		this.speed = speed;
+	}
+}

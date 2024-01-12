@@ -1,0 +1,10 @@
+package sec06.exam06;
+
+public class Car {
+	private int speed;
+	private int stop;
+	
+	//생성자
+	
+	//메소드
+}

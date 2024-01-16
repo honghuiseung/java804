@@ -1,9 +1,0 @@
-package sec02.exam01;
-
-public class ArrauCreateByValueListExample {
-
-	public static void main(String[] args) {
-		int[] scores = {83, 90, 87}
-	}
-
-}

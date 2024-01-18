@@ -10,7 +10,7 @@ public class ChildExample {
 		
 		Parent parent = child;
 		parent.method1();
-		parent.method2();
+		parent.method2();//재정의한게 실행
 		//parent.method3(); 호출불가능
 		
 		Child child2 = (Child)parent;

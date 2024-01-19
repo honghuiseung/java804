@@ -1,9 +1,0 @@
-package sec03.exam04;
-
-public class CarExample {
-
-	public static void main(String[] args) {
-		Car car4 = new Car("택시", "검정", 200)
-	}
-
-}

@@ -4,4 +4,10 @@
 <fullyQualifiedTypeName name="sec06.exam02.hankook.Tire"/>
 <fullyQualifiedTypeName name="sec06.exam05.package1.A"/>
 <fullyQualifiedTypeName name="sec01.exam01.DmbCellphone"/>
+<fullyQualifiedTypeName name="sec02.exam04.Driver"/>
+<fullyQualifiedTypeName name="sec02.exam04.Bus"/>
+<fullyQualifiedTypeName name="sec02.exam04.Taxi"/>
+<fullyQualifiedTypeName name="sec03.exam01.Phone"/>
+<fullyQualifiedTypeName name="sec03.exam01.SmartPhone"/>
+<fullyQualifiedTypeName name="sec03.exam02.Dog"/>
 </qualifiedTypeNameHistroy>

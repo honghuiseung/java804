@@ -10,4 +10,14 @@
 <fullyQualifiedTypeName name="sec03.exam01.Phone"/>
 <fullyQualifiedTypeName name="sec03.exam01.SmartPhone"/>
 <fullyQualifiedTypeName name="sec03.exam02.Dog"/>
+<fullyQualifiedTypeName name="verify.exam05.Child"/>
+<fullyQualifiedTypeName name="verify.exam06.MemberService"/>
+<fullyQualifiedTypeName name="verify.exam06.Controller"/>
+<fullyQualifiedTypeName name="verify.exam07.HttpServlet"/>
+<fullyQualifiedTypeName name="sec01.exam03.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam05.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam05.Searchable"/>
+<fullyQualifiedTypeName name="sec01.exam06.RemoteControl"/>
+<fullyQualifiedTypeName name="sec01.exam06.MyClass"/>
+<fullyQualifiedTypeName name="sec01.exam06.Television"/>
 </qualifiedTypeNameHistroy>

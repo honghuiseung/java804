@@ -24,5 +24,11 @@
 <fullyQualifiedTypeName name="sec02.exam04.Bus"/>
 <fullyQualifiedTypeName name="sec02.exam04.Taxi"/>
 <fullyQualifiedTypeName name="sec02.exam05.ImplementC"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.B"/>
+<fullyQualifiedTypeName name="sec01.exam01.A.C"/>
+<fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test.Button"/>
+<fullyQualifiedTypeName name="sec01.test.CallListener"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

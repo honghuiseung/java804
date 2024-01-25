@@ -31,4 +31,23 @@
 <fullyQualifiedTypeName name="sec01.test.Button"/>
 <fullyQualifiedTypeName name="sec01.test.CallListener"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec01.test3.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test4.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test4.Button"/>
+<fullyQualifiedTypeName name="sec01.test5.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec01.test5.Button"/>
+<fullyQualifiedTypeName name="sec01.test5.CallListener"/>
+<fullyQualifiedTypeName name="sec02.exam01.Anonymous"/>
+<fullyQualifiedTypeName name="sec02.exam02.Anonymous"/>
+<fullyQualifiedTypeName name="sec02.exam02.RemoteControl"/>
+<fullyQualifiedTypeName name="sec02.exam03.Button"/>
+<fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam03.Window"/>
+<fullyQualifiedTypeName name="sec02.exam04.Carculator"/>
+<fullyQualifiedTypeName name="sec02.exam04.Anonymous"/>
+<fullyQualifiedTypeName name="sec02.exam05.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam05.Button"/>
+<fullyQualifiedTypeName name="sec02.exam06.Button.OnClickListener"/>
+<fullyQualifiedTypeName name="sec02.exam06.Button"/>
+<fullyQualifiedTypeName name="sec02.exam06.CallListener"/>
 </qualifiedTypeNameHistroy>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="sec02.exam02.Taxi"/>
-<fullyQualifiedTypeName name="sec02.exam04.Driver"/>
-<fullyQualifiedTypeName name="sec02.exam04.Bus"/>
-<fullyQualifiedTypeName name="sec02.exam04.Taxi"/>
 <fullyQualifiedTypeName name="sec02.exam05.ImplementC"/>
 <fullyQualifiedTypeName name="sec01.exam01.A.B"/>
 <fullyQualifiedTypeName name="sec01.exam01.A.C"/>
@@ -60,4 +56,8 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="sec01.exam07.Student"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="sec02.exam02.Message"/>
 </qualifiedTypeNameHistroy>

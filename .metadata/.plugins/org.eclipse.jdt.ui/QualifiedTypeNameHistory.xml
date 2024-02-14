@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="sec01.exam06.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="sec01.test.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="sec01.test.Button"/>
-<fullyQualifiedTypeName name="sec01.test.CallListener"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="sec01.test3.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="sec01.test4.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="sec01.test4.Button"/>
-<fullyQualifiedTypeName name="sec01.test5.Button.OnClickListener"/>
-<fullyQualifiedTypeName name="sec01.test5.Button"/>
-<fullyQualifiedTypeName name="sec01.test5.CallListener"/>
-<fullyQualifiedTypeName name="sec02.exam01.Anonymous"/>
-<fullyQualifiedTypeName name="sec02.exam02.Anonymous"/>
 <fullyQualifiedTypeName name="sec02.exam02.RemoteControl"/>
 <fullyQualifiedTypeName name="sec02.exam03.Button"/>
 <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
@@ -39,8 +26,6 @@
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="java.io.UnsupportedEncodingException"/>
 <fullyQualifiedTypeName name="sec02.exam01.DateExample"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="com.sun.javafx.tk.Toolkit"/>
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="sec01.exam07.Calculator"/>
@@ -50,14 +35,29 @@
 <fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="sec02.exam04.AutoSaveThread"/>
 <fullyQualifiedTypeName name="sec01.exam01.ArrayListExample"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 <fullyQualifiedTypeName name="sec01.exam07.Student"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="sec02.exam02.Message"/>
-<fullyQualifiedTypeName name="java.io.OutputStream"/>
-<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
 <fullyQualifiedTypeName name="java.io.Writer"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedInputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
+<fullyQualifiedTypeName name="java.io.OutputStream"/>
+<fullyQualifiedTypeName name="java.io.DataOutputStream"/>
+<fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="javafx.scene.chart.PieChart.Data"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="sec02.exam06.ObjectStreamExample"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="sec03.exam02.ProductStorage"/>
 </qualifiedTypeNameHistroy>
